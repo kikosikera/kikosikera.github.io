@@ -42,7 +42,7 @@ It is worth mentioning that it is possible to define the winning percentage acco
 [Data](https://github.com/kikosikera/2021_01_py_mysql_pbi/tree/master/data)
 
 <a href="https://kikosikera.github.io/accomplishments/powerbi/2020_04_30_pd_mt_sk_st/">
-  <img src="/images/2021_02_06_py_mysql_pbi_720_379.png" style="width:720px;height:408px;"/>
+  <img src="/images/2021_02_06_py_mysql_pbi_720_379.png" style="width:720px;height:379px;"/>
  </a>
 
 

@@ -37,11 +37,11 @@ It is worth mentioning that it is possible to define the winning percentage acco
 
 [Jupyter Notebook > Sportstats Olympic Data Analysis > MySQL approach](https://colab.research.google.com/gist/kikosikera/567a454cdf7576382b600d89e494742c/2021_01_py_mysql_pbi.ipynb?authuser=1)
 
-[Power BI Dashboard > Dependent and Independent Variables](https://kikosikera.github.io/accomplishments/powerbi/2020_04_30_pd_mt_sk_st/)
+[Power BI Dashboard > Dependent and Independent Variables](https://kikosikera.github.io/accomplishments/powerbi/2021_02_06_py_mysql_pbi/)
 
 [Data](https://github.com/kikosikera/2021_01_py_mysql_pbi/tree/master/data)
 
-<a href="https://kikosikera.github.io/accomplishments/powerbi/2020_04_30_pd_mt_sk_st/">
+<a href="https://kikosikera.github.io/accomplishments/powerbi/2021_02_06_py_mysql_pbi/">
   <img src="/images/2021_02_06_py_mysql_pbi_720_379.png" style="width:720px;height:379px;"/>
  </a>
 

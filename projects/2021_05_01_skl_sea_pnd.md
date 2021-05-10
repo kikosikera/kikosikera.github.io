@@ -29,7 +29,7 @@ summary: In this project, we will be using the Census Income Dataset to predict 
 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/2021_03_08_ab_pd_mt_pannel.png">
+<img class="ui image" src="{{ site.baseurl }}/images/2021_05_01_skl_sea_pnd_pannel.png">
 
 In this project, we will be using the Census Income Dataset to predict whether an individual's income exceeds $50K/year based on U.S. Census Data taken from the UCI (University of California at Irvine) Machine Learning Repository.
 

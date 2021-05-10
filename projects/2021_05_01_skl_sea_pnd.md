@@ -41,8 +41,8 @@ The project performs all stages as Cleaning and Preprocessing the Data, Explorat
 [Data](https://github.com/kikosikera/2021_05_01_skl_sea_pnd/tree/master/data)
 
 
- <a href="https://public.tableau.com/profile/cristiano.siqueira#!/vizhome/2021_03_08_ab_pd_mt/dashboard">
-  <img src="/images/2021_03_08_ab_pd_mt_tableau.png" style="width:678px;height:342px;"/>
+<a href="https://kikosikera.github.io/accomplishments/powerbi/2021_05_01_skl_sea_pnd/">
+  <img src="/images/2021_05_01_skl_sea_pnd_BIG.png" style="width:720px;height:379px;"/>
  </a>
 
 

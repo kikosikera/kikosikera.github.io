@@ -42,7 +42,7 @@ The project performs all stages as Cleaning and Preprocessing the Data, Explorat
 
 
 <a href="https://kikosikera.github.io/accomplishments/powerbi/2021_05_01_skl_sea_pnd/">
-  <img src="/images/2021_05_01_skl_sea_pnd_BIG.png" style="width:720px;height:379px;"/>
+  <img src="/images/2021_05_01_skl_sea_pnd_BG.png" style="width:720px;height:439px;"/>
  </a>
 
 

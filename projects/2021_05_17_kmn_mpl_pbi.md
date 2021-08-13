@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/2021_05_17_kmn_mpl_pbi.png
-title: Sportstats Olympic Data Analysis > MySQL
+title: Stock Market Analysis using K-means Clustering
 permalink: projects/2021_01_py_mysql_pbi
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-17

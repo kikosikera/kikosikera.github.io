@@ -5,7 +5,7 @@ image: images/2021_05_17_kmn_mpl_pbi.png
 title: Stock Market Analysis using K-means Clustering
 permalink: projects/2021_01_py_mysql_pbi
 # All dates must be YYYY-MM-DD format!
-date: 2021-05-17
+date: 2021-06-17
 labels:
 - Python
 - Matplotlib

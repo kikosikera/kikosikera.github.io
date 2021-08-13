@@ -31,7 +31,9 @@ summary: This project Stock Market Data from Yahoo Finance is extracted and then
 
 <img class="ui image" src="{{ site.baseurl }}/images/2021_01_py_mysql_pbi_pannel.png">
 
-This project Stock Market Data from Yahoo Finance is extracted and then cleaned and load into K-means Clustering Algorithm to detect similar companies based on their movements in the market. It mainly deals with developing a pipeline that normalizes the data and then runs the algorithm to produce the labels that assign the companies to different clusters, like Mcdonalds, Mastercard, Symantec, Apple, American Express, Sony, etc.
+This project Stock Market Data from Yahoo Finance is extracted and then cleaned and load into K-means Clustering Algorithm to detect similar companies based on their movements in the market. 
+
+It mainly deals with developing a pipeline that normalizes the data and then runs the algorithm to produce the labels that assign the companies to different clusters, like Mcdonalds, Mastercard, Symantec, Apple, American Express, Sony, etc.
 
 
 [Jupyter Notebook > Sportstats Olympic Data Analysis > MySQL approach](https://colab.research.google.com/gist/kikosikera/567a454cdf7576382b600d89e494742c/2021_01_py_mysql_pbi.ipynb?authuser=1)

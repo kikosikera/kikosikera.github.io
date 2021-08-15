@@ -30,7 +30,7 @@ summary: This project Stock Market Data from Yahoo Finance is extracted and then
 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/2021_01_py_mysql_pbi_pannel.png">
+<img class="ui image" src="{{ site.baseurl }}/images/2021_05_17_kmn_mpl_pbi_pannel.png">
 
 This project Stock Market Data from Yahoo Finance is extracted and then cleaned and load into K-means Clustering Algorithm to detect similar companies based on their movements in the market. 
 

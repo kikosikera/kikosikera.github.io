@@ -41,7 +41,7 @@ It mainly deals with developing a pipeline that normalizes the data and then run
 
 [Power BI Dashboard > Stock Market Analysis](https://kikosikera.github.io/accomplishments/powerbi/2021_05_17_kmn_mpl_pbi/)
 
-[Data](https://github.com/kikosikera/2021_05_17_kmn_mpl_pbi/tree/master/data)
+[Data](https://github.com/kikosikera/2021_05_17_kmn_mpl_pbi/tree/master/data/)
 
 <a href="https://kikosikera.github.io/accomplishments/powerbi/2021_05_17_kmn_mpl_pbi/">
   <img src="/images/2021_05_17_kmn_mpl_pbi_720_379.png" style="width:720px;height:379px;"/>

@@ -37,17 +37,17 @@ This project Stock Market Data from Yahoo Finance is extracted and then cleaned 
 It mainly deals with developing a pipeline that normalizes the data and then runs the algorithm to produce the labels that assign the companies to different clusters, like Mcdonalds, Mastercard, Symantec, Apple, American Express, Sony, etc.
 
 
-[Jupyter Notebook > Sportstats Olympic Data Analysis > MySQL approach](https://colab.research.google.com/gist/kikosikera/567a454cdf7576382b600d89e494742c/2021_01_py_mysql_pbi.ipynb?authuser=1)
+[Jupyter Notebook > Stock Market Analysis using K-means Clustering](https://colab.research.google.com/gist/kikosikera/8cce92ef4b042622ee77ce30d31f2837/2021_05_17_kmn_mpl_pbi.ipynb?authuser=5)
 
-[Power BI Dashboard > Dependent and Independent Variables](https://kikosikera.github.io/accomplishments/powerbi/2021_02_06_py_mysql_pbi/)
+[Power BI Dashboard > Stock Market Analysis](https://kikosikera.github.io/accomplishments/powerbi/2021_05_17_kmn_mpl_pbi_full.png/)
 
-[Data](https://github.com/kikosikera/2021_01_py_mysql_pbi/tree/master/data)
+[Data](https://github.com/kikosikera/2021_05_17_kmn_mpl_pbi/tree/master/data)
 
-<a href="https://kikosikera.github.io/accomplishments/powerbi/2021_02_06_py_mysql_pbi/">
-  <img src="/images/2021_02_06_py_mysql_pbi_720_379.png" style="width:720px;height:379px;"/>
+<a href="https://kikosikera.github.io/accomplishments/powerbi/2021_05_17_kmn_mpl_pbi/">
+  <img src="/images/2021_05_17_kmn_mpl_pbi_720_379.png" style="width:720px;height:379px;"/>
  </a>
 
 
 <hr>
 
-Source: <a href="https://github.com/kikosikera/2021_01_py_mysql_pbi"><i class="large github icon"></i>kikosikera/2021_01_py_mysql_pbi</a>
+Source: <a href="https://github.com/kikosikera/2021_05_17_kmn_mpl_pbi"><i class="large github icon"></i>kikosikera/2021_05_17_kmn_mpl_pbi</a>

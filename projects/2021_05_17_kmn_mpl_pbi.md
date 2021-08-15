@@ -15,6 +15,7 @@ labels:
 - Numpy
 - Sklearn
 - Centroid
+- Reduced Labels
 
 
 

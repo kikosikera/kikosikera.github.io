@@ -39,7 +39,7 @@ It mainly deals with developing a pipeline that normalizes the data and then run
 
 [Jupyter Notebook > Stock Market Analysis using K-means Clustering](https://colab.research.google.com/gist/kikosikera/8cce92ef4b042622ee77ce30d31f2837/2021_05_17_kmn_mpl_pbi.ipynb?authuser=5)
 
-[Power BI Dashboard > Stock Market Analysis](https://kikosikera.github.io/accomplishments/powerbi/2021_05_17_kmn_mpl_pbi_full.png/)
+[Power BI Dashboard > Stock Market Analysis](https://kikosikera.github.io/accomplishments/powerbi/2021_05_17_kmn_mpl_pbi/)
 
 [Data](https://github.com/kikosikera/2021_05_17_kmn_mpl_pbi/tree/master/data)
 

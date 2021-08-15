@@ -3,18 +3,18 @@ layout: project
 type: project
 image: images/2021_05_17_kmn_mpl_pbi.png
 title: Stock Market Analysis using K-means Clustering
-permalink: projects/2021_01_py_mysql_pbi
+permalink: projects/2021_05_17_kmn_mpl_pbi
 # All dates must be YYYY-MM-DD format!
 date: 2021-06-17
 labels:
-- Python
+- Stock Market
+- K-means 
+- Clustering
 - Matplotlib
-- MySQL Queries
 - PowerBI
-- Dashboard
-- ETL
-- Exploratory Data Analysis
-- Correlation
+- Numpy
+- Sklearn
+- Centroid
 
 
 

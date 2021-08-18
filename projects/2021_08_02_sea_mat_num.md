@@ -29,7 +29,7 @@ summary: Using Python, we will develop a very simple movie Recommender System th
 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/2021_08_02_sea_mat_num_pannel">
+<img class="ui image" src="{{ site.baseurl }}/images/2021_08_02_sea_mat_num_pannel.png">
 
 Using Python, we will develop a very simple movie Recommender System that utilizes the correlation between the ratings assigned to different movies. Thus, we will find the similarity between the movies.
 

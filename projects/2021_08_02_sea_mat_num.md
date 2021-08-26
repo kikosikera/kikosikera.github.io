@@ -41,7 +41,7 @@ Recommender Systems are one of the most popular and widely used applications of 
 [Data](https://github.com/kikosikera/2021_08_02_sea_mat_num/tree/master/data)
 
 
-<img class="ui image" src="{{ site.baseurl }}/images/2021_08_02_sea_mat_num_movie.png" style="width:720px;height:480px;"/>
+<img class="ui image" src="{{ site.baseurl }}/images/2021_08_02_sea_mat_num_movie.png" style="width:640px;height:450px;"/>
 
 
 

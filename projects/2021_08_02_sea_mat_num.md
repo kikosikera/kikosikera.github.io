@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/2021_08_02_sea_mat_num.png
 title: Movie Recommender System > Correlations
-permalink: projects/2021_05_01_skl_sea_pnd
+permalink: projects/2021_08_02_sea_mat_num
 # All dates must be YYYY-MM-DD format!
 date: 2021-08-02
 labels:

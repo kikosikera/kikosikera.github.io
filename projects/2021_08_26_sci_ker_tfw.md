@@ -7,15 +7,17 @@ permalink: projects/2021_02_15_py_sea_mtp_tb
 # All dates must be YYYY-MM-DD format!
 date: 2021-08-26
 labels:
-- Tableau
-- Interactive Dashboard
-- Seaborn
-- Folium
+- Optimization
+- Sklearn
+- Cross-Validation
+- Train
+- Test
+- Neural Networt
 - Matplotlib
-- Live
-- Tracking
-- Clustering
-- Bubbles
+- Keras
+- TensorFlow
+- Prediction
+- Tableau
 
 
 

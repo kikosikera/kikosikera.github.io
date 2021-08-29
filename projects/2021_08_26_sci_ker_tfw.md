@@ -8,15 +8,13 @@ permalink: projects/2021_02_15_py_sea_mtp_tb
 date: 2021-08-26
 labels:
 - Optimization
-- Sklearn
-- Cross-Validation
+- Prediction
 - Train
 - Test
+- Cross-Validation
 - Neural Networt
-- Matplotlib
 - Keras
 - TensorFlow
-- Prediction
 - Tableau
 
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/2021_08_26_sci_ker_tfw.png
+image: images/2021_08_26_sci_ker_tfw1.png
 title: Neural Network > Titanic Challenge
 permalink: projects/2021_02_15_py_sea_mtp_tb
 # All dates must be YYYY-MM-DD format!

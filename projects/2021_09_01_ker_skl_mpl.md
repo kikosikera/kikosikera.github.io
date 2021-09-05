@@ -36,7 +36,7 @@ I this project I will try to understand various components of Artificial Neural 
 I will design a Neural Net on MNIST handwritten digits images to identify their correct label i.e number in image. MNIST is called Hello world of Deep learning.
 
 
-[Jupyter Notebook > Movie Recommender System > Correlations](https://colab.research.google.com/gist/kikosikera/4efdc2761aa34ce4620787b3738cfa50/2021_09_01_ker_skl_mpl.ipynb?authuser=5)
+[Jupyter Notebook > Artificial Neural Networks > Keras DL](https://colab.research.google.com/gist/kikosikera/4efdc2761aa34ce4620787b3738cfa50/2021_09_01_ker_skl_mpl.ipynb?authuser=5)
 
 [Data](https://github.com/kikosikera/2021_09_01_ker_skl_mpl/tree/master/data)
 

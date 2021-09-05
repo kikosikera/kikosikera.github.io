@@ -29,7 +29,7 @@ summary: I this project I will try to understand various components of Artificia
 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/2021_08_02_sea_mat_num_pannel.png">
+<img class="ui image" src="{{ site.baseurl }}/images/2021_09_01_ker_skl_mpl_pannel.png">
 
 I this project I will try to understand various components of Artificial Neural Networks as known as Deep Learning.
 
@@ -40,7 +40,7 @@ I will design a Neural Net on MNIST handwritten digits images to identify their 
 
 [Data](https://github.com/kikosikera/2021_09_01_ker_skl_mpl/tree/master/data)
 
-<img class="ui image" src="{{ site.baseurl }}/images/2021_08_02_sea_mat_num_movie.png"/>
+<img class="ui image" src="{{ site.baseurl }}/images/2021_09_01_ker_skl_mpl_digits.png"/>
 
 
 

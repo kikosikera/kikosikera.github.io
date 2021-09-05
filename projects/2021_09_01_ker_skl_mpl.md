@@ -7,7 +7,7 @@ permalink: projects/2021_09_01_ker_skl_mpl
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-10
 labels:
-- Neural Net
+- Neural Network
 - Python
 - Numpy
 - Keras

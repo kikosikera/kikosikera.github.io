@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/2021_08_26_sci_ker_tfw.png
+image: images/2021_10_05_pnd_npy_tbl.png
 title: Bike Share Case Study > Google Data Professional
-permalink: projects/2021_08_26_sci_ker_tfw
+permalink: projects/2021_10_05_pnd_npy_tbl
 # All dates must be YYYY-MM-DD format!
-date: 2021-11-30
+date: 2021-10-05
 labels:
 - Google Data Analytics
 - PRO Certificate
@@ -30,7 +30,7 @@ summary: The following project is a Bike-Sharing Data Analysis from Capital Bike
 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/2021_08_26_sci_ker_tfw_pannel.png">
+<img class="ui image" src="{{ site.baseurl }}/images/2021_10_05_pnd_npy_tbl_pannel.png">
 
 The following project is a Bike-Sharing Data Analysis from Capital Bikeshare (Washington D.C) as part of the Google Data Analytics Professional Program.<br/>
 
@@ -39,18 +39,18 @@ The Bike Sharing rental process is highly correlated to the environmental and se
 
 [Jupyter Notebook > Google Data Analytics Professional Certificate > Bike Share Case Study](https://colab.research.google.com/gist/kikosikera/77897222e8aa5a677dea27e7bd07efb7/2021_10_05_pnd_npy_tbl.ipynb?authuser=5)
 
-[Tableau Dashboard > Google Data Analytics Professional Certificate > Bike Share Case Study](https://public.tableau.com/app/profile/cristiano.siqueira/viz/2021_08_26_sci_ker_tfw/NeuralNetwork)
+[Tableau Dashboard > Google Data Analytics Professional Certificate > Bike Share Case Study](https://public.tableau.com/profile/cristiano.siqueira#!)
 
 [Tableau Gallery](https://public.tableau.com/profile/cristiano.siqueira#!)
 
-[Data](https://github.com/kikosikera/2021_08_26_sci_ker_tfw/tree/master/data)
+[Data](https://github.com/kikosikera/2021_10_05_pnd_npy_tbl/tree/master/data)
 
 
- <a href="https://public.tableau.com/app/profile/cristiano.siqueira/viz/2021_08_26_sci_ker_tfw/NeuralNetwork">
-  <img src="/images/2021_08_26_sci_ker_tfw_tableau.png" style="width:700px;height:467px;"/>
+ <a href="https://public.tableau.com/profile/cristiano.siqueira#!">
+  <img src="/images/2021_10_05_pnd_npy_tbl_tableau.png" style="width:700px;height:467px;"/>
  </a>
 
 
 <hr>
 
-Source: <a href="https://github.com/kikosikera/2021_08_26_sci_ker_tfw/tree/main/data"><i class="large github icon"></i>kikosikera/2021_08_26_sci_ker_tfw</a>
+Source: <a href="https://github.com/kikosikera/2021_10_05_pnd_npy_tbl/tree/main/data"><i class="large github icon"></i>kikosikera/2021_10_05_pnd_npy_tbl</a>

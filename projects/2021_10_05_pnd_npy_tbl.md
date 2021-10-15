@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/2021_10_05_pnd_npy_tbl.png
-title: Bike Share Case Study > Google Data Professional
+title: Bike Share > Google Data Case Study
 permalink: projects/2021_10_05_pnd_npy_tbl
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-05

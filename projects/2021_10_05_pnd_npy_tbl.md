@@ -39,15 +39,15 @@ The Bike Sharing rental process is highly correlated to the environmental and se
 
 [Jupyter Notebook > Google Data Analytics Professional Certificate > Bike Share Case Study](https://colab.research.google.com/gist/kikosikera/77897222e8aa5a677dea27e7bd07efb7/2021_10_05_pnd_npy_tbl.ipynb?authuser=5)
 
-[Tableau Dashboard > Google Data Analytics Professional Certificate > Bike Share Case Study](https://public.tableau.com/profile/cristiano.siqueira#!)
+[Tableau Dashboard > Google Data Analytics Professional Certificate > Bike Share Case Study](https://public.tableau.com/app/profile/cristiano.siqueira/viz/2021_10_05_pnd_npy_tbl/Bike_Dashboard)
 
 [Tableau Gallery](https://public.tableau.com/profile/cristiano.siqueira#!)
 
 [Data](https://github.com/kikosikera/2021_10_05_pnd_npy_tbl/tree/master/data)
 
 
- <a href="https://public.tableau.com/profile/cristiano.siqueira#!">
-  <img src="/images/2021_10_05_pnd_npy_tbl_tableau.png" style="width:700px;height:467px;"/>
+ <a href="https://public.tableau.com/app/profile/cristiano.siqueira/viz/2021_10_05_pnd_npy_tbl/Bike_Dashboard">
+  <img src="/images/2021_10_05_pnd_npy_tbl_tableau.png" style="width:700px;height:400px;"/>
  </a>
 
 

@@ -47,7 +47,7 @@ The Bike Sharing rental process is highly correlated to the environmental and se
 
 
  <a href="https://public.tableau.com/app/profile/cristiano.siqueira/viz/2021_10_05_pnd_npy_tbl/Bike_Dashboard">
-  <img src="/images/2021_10_05_pnd_npy_tbl_tableau.png" style="width:700px;height:400px;"/>
+  <img src="/images/2021_10_05_pnd_npy_tbl_tableau_.png" style="width:700px;height:400px;"/>
  </a>
 
 

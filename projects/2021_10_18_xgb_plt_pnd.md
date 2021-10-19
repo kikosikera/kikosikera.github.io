@@ -33,7 +33,7 @@ summary: In order to forecast future prices of stocks series, this project build
 In order to forecast future prices of stocks series, this project builds a model with the help of XGBoost library. Technical indicators and optimal parameters will be selected to yield and predict the best trend to follow.
 
 
-[Jupyter Notebook > Movie Recommender System > Correlations](https://colab.research.google.com/gist/kikosikera/88a235e32780e5151361e67fe310a651/2021_10_18_xgb_plt_pnd.ipynb?authuser=5)
+[Jupyter Notebook > Stock Trend & Prices Prediction > XGBoost](https://colab.research.google.com/gist/kikosikera/88a235e32780e5151361e67fe310a651/2021_10_18_xgb_plt_pnd.ipynb?authuser=5)
 
 [Data](https://github.com/kikosikera/2021_10_18_xgb_plt_pnd/tree/master/data)
 

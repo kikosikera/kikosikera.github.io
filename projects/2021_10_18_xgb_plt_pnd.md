@@ -37,7 +37,7 @@ In order to forecast future prices of stocks series, this project builds a model
 
 [Data](https://github.com/kikosikera/2021_10_18_xgb_plt_pnd/tree/master/data)
 
-<img class="ui image" src="{{ site.baseurl }}/images/2021_10_18_xgb_plt_pnd.png"/>
+<img class="ui image" src="{{ site.baseurl }}/images/2021_10_18_xgb_plt_pnd_charts.png"/>
 
 
 

@@ -37,7 +37,7 @@ By finishing this project, we will be able to predict continuous variables using
 To predict the sale prices we are going to use 79 explanatory variables describing aspects of residential homes in Ames, Iowa.
 
 
-[Jupyter Notebook > Stock Trend & Prices Prediction > XGBoost](https://colab.research.google.com/gist/kikosikera/5bae8efe0c655b163d82ee02df50a016/2022_01_03_sea_skl_xgb.ipynb?authuser=3)
+[Jupyter Notebook > House Price Prediction with Machine Learning](https://colab.research.google.com/gist/kikosikera/5bae8efe0c655b163d82ee02df50a016/2022_01_03_sea_skl_xgb.ipynb?authuser=3)
 
 [Data](https://github.com/kikosikera/2022_01_03_sea_skl_xgb/tree/master/data)
 

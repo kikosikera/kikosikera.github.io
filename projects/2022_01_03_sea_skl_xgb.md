@@ -9,9 +9,9 @@ date: 2022-01-03
 labels:
 - Machine Learning
 - XGBoost
-- Prediction
-- Gradient Boosting Tree algorithm
+- Gradient Boosting Tree
 - Algorithm
+- Prediction
 - Python
 - Sklearn
 - Seaborn

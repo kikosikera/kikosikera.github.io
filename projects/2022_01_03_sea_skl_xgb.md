@@ -12,10 +12,8 @@ labels:
 - Gradient Boosting Tree
 - Algorithm
 - Prediction
-- Python
 - Sklearn
 - Seaborn
-- Pandas
 
 
 

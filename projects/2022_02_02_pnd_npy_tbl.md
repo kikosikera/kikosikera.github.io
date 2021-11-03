@@ -7,15 +7,15 @@ permalink: projects/2022_02_02_pnd_npy_tbl
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-02
 labels:
-- Google Data Analytics
-- PRO Certificate
+- Tableau
+- Python
 - Pandas
 - Numpy
-- Sklearn
-- Seaborn
-- Matplotlib
-- Kaggle
-- Tableau
+- Requests
+- Data Vizz
+- Dashboard
+- Spotify
+- Streaming Data
 
 
 

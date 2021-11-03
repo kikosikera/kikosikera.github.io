@@ -1,4 +1,4 @@
----
+*---
 layout: project
 type: project
 image: images/2022_01_03_sea_skl_xgb.png

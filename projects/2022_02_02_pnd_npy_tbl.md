@@ -44,8 +44,8 @@ Visualizing Spotify Data with Python and Tableau](https://public.tableau.com/app
 [Data](https://github.com/kikosikera/2022_02_02_pnd_npy_tbl/tree/master/data)
 
 
- <a href="https://public.tableau.com/app/profile/cristiano.siqueira/viz/2021_10_05_pnd_npy_tbl/Bike_Dashboard">
-  <img src="/images/2022_02_02_pnd_npy_tbl_tableau_.png" style="width:800px;height:416px;"/>
+ <a href="https://public.tableau.com/app/profile/cristiano.siqueira/viz/Spotify_Data_16359471657060/SpotifyData">
+  <img src="/images/2022_02_02_pnd_npy_tbl_tableau.png" style="width:800px;height:416px;"/>
  </a>
 
 

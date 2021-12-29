@@ -36,9 +36,8 @@ In this applied task, we will walk through a few core features in Azure Boards a
 Azure Boards is a service for managing the work for your software projects. Teams need tools that flex and grow. Azure Boards does just that, bringing you a rich set of capabilities including native support for Scrum and Kanban, customizable dashboards, and integrated reporting.
 
 
-[Jupyter Notebook > House Price Prediction with Machine Learning](https://colab.research.google.com/gist/kikosikera/5bae8efe0c655b163d82ee02df50a016/2022_01_03_sea_skl_xgb.ipynb?authuser=3)
+[Accomplishments > Course Certificate > Microsoft Azure DevOps Boards](https://www.coursera.org/account/accomplishments/verify/BMJNB587EMDW)
 
-[Data](https://github.com/kikosikera/2022_01_03_sea_skl_xgb/tree/master/data)
 
 <img class="ui image" src="{{ site.baseurl }}/images/2022_01_03_sea_skl_xgb_charts_raw_high_800.png"/>
 
@@ -46,4 +45,4 @@ Azure Boards is a service for managing the work for your software projects. Team
 
 <hr>
 
-Source: <a href="https://github.com/kikosikera/2022_01_03_sea_skl_xgb/tree/main/"><i class="large github icon"></i>kikosikera/2022_01_03_sea_skl_xgb</a>
+Source: <a href="https://github.com/kikosikera/2021_12_23_mic_azu_boa/tree/main/"><i class="large github icon"></i>kikosikera/2021_12_23_mic_azu_boa</a>

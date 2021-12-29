@@ -29,7 +29,7 @@ summary: In this applied task, we will walk through a few core features in Azure
 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/2022_01_03_sea_skl_xgb_pannel.png">
+<img class="ui image" src="{{ site.baseurl }}/images/2021_12_23_mic_azu_boa_devops_boards.png">
 
 In this applied task, we will walk through a few core features in Azure Boards and give some insight into how we can make them work for our teams and projects.
 

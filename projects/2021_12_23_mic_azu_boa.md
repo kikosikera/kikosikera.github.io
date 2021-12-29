@@ -39,7 +39,7 @@ Azure Boards is a service for managing the work for your software projects. Team
 [Accomplishments > Course Certificate > Microsoft Azure DevOps Boards](https://www.coursera.org/account/accomplishments/verify/BMJNB587EMDW)
 
 
-<img class="ui image" src="{{ site.baseurl }}/images/2022_01_03_sea_skl_xgb_charts_raw_high_800.png"/>
+<img class="ui image" src="{{ site.baseurl }}/images/2021_12_23_mic_azu_boa_cert.png"/>
 
 
 

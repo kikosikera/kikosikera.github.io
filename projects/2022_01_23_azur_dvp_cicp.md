@@ -15,9 +15,7 @@ labels:
 - Web Apps
 - Automation
 - Continuous Deployment 
-- CD
 - Continuous Integration
-- CI
 
 
 

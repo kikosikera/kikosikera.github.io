@@ -12,10 +12,9 @@ labels:
 - Microsoft 
 - Azure
 - Visual Studio
-- Web Apps
-- Automation
 - Continuous Deployment 
 - Continuous Integration
+- Automation
 
 
 

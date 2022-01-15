@@ -34,7 +34,7 @@ In this project-based course on Microsoft Azure, we will be using a sample appli
 We will show direct deployment from local to Azure web apps, a simple CI process that builds our application on an agent and produces artifacts, and we will also create a CD process that adds on the deployment component to our CI pipeline. We will end up with a fully automated pipeline in Azure that is triggered on new code pushes to the Main branch. 
 
 
-[Accomplishments > Course Certificate > Azure Devops Introduction to CI_CD with Visual Studio](https://www.coursera.org/account/accomplishments/verify/GE9JV2EE6DD4)
+[Accomplishments > Course Certificate > Azure Devops Introduction to CI_CD > Visual Studio](https://www.coursera.org/account/accomplishments/verify/GE9JV2EE6DD4)
 
 <a href="https://www.coursera.org/account/accomplishments/verify/GE9JV2EE6DD4">
   <img src="/images/2022_01_23_azur_dvp_cicp_cert.png" style="width:720px;height:360px;"/>

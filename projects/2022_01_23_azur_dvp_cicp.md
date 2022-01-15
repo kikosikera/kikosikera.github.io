@@ -1,22 +1,23 @@
 ---
 layout: project
 type: project
-image: images/2021_12_23_mic_azu_boa.png
-title: Deep dive into Microsoft Azure DevOps Boards
-permalink: projects/2021_12_23_mic_azu_boa
+image: images/2022_01_23_azur_dvp_cicp.png
+title: Azure Devops > Introduction CI|CD > Visual Studio
+permalink: projects/2022_01_23_azur_dvp_cicp
 # All dates must be YYYY-MM-DD format!
-date: 2021-12-23
+date: 2022-01-23
 labels:
-- Azure
 - Devops
-- Scrum
-- Agile
-- Project Management
-- Boards
-- Backlogs
-- Sprints
-- Dashboards
-- Queries
+- Pipeline
+- Microsoft 
+- Azure
+- Visual Studio
+- Web Apps
+- Continuous Deployment 
+- CD
+- Continuous Integration
+- CI
+- Automation
 
 
 
@@ -25,25 +26,25 @@ labels:
 
 
 
-summary: In this applied task, we will walk through a few core features in Azure Boards and give some insight into how we can make them work for our teams and projects.
+summary: In this project-based course on Microsoft Azure, we will be using a sample application in Visual Studio to create a CI/CD pipeline completely using the Microsoft Azure cloud development suite.
 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/2021_12_23_mic_azu_boa_devops_boards.png">
+<img class="ui image" src="{{ site.baseurl }}/images/2022_01_23_azur_dvp_cicp_header.png">
 
-In this applied task, we will walk through a few core features in Azure Boards and give some insight into how we can make them work for our teams and projects.
+In this project-based course on Microsoft Azure, we will be using a sample application in Visual Studio to create a CI/CD pipeline completely using the Microsoft Azure cloud development suite.
 
-Azure Boards is a service for managing the work for your software projects. Teams need tools that flex and grow. Azure Boards does just that, bringing you a rich set of capabilities including native support for Scrum and Kanban, customizable dashboards, and integrated reporting.
+We will show direct deployment from local to Azure web apps, a simple CI process that builds our application on an agent and produces artifacts, and we will also create a CD process that adds on the deployment component to our CI pipeline. We will end up with a fully automated pipeline in Azure that is triggered on new code pushes to the Main branch. 
 
 
-[Accomplishments > Course Certificate > Microsoft Azure DevOps Boards](https://www.coursera.org/account/accomplishments/verify/BMJNB587EMDW)
+[Accomplishments > Course Certificate > Microsoft Azure DevOps Boards](https://www.coursera.org/account/accomplishments/verify/GE9JV2EE6DD4)
 
-<a href="https://www.coursera.org/account/accomplishments/verify/BMJNB587EMDW">
-  <img src="/images/2021_12_23_mic_azu_boa_cert.png" style="width:720px;height:360px;"/>
+<a href="https://www.coursera.org/account/accomplishments/verify/GE9JV2EE6DD4">
+  <img src="/images/2022_01_23_azur_dvp_cicp_cert.png" style="width:720px;height:360px;"/>
  </a>
 
 
 
 <hr>
 
-Source: <a href="https://github.com/kikosikera/2021_12_23_mic_azu_boa/tree/main/"><i class="large github icon"></i>kikosikera/2021_12_23_mic_azu_boa</a>
+Source: <a href="https://github.com/kikosikera/2022_01_23_azur_dvp_cicp/tree/main/"><i class="large github icon"></i>kikosikera/2022_01_23_azur_dvp_cicp</a>

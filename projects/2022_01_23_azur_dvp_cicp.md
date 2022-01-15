@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/2022_01_23_azur_dvp_cicp.png
-title: Azure Devops > Introduction CI|CD > Visual Studio
+title: Azure Devops > CI|CD > Visual Studio
 permalink: projects/2022_01_23_azur_dvp_cicp
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-23
@@ -13,11 +13,11 @@ labels:
 - Azure
 - Visual Studio
 - Web Apps
+- Automation
 - Continuous Deployment 
 - CD
 - Continuous Integration
 - CI
-- Automation
 
 
 

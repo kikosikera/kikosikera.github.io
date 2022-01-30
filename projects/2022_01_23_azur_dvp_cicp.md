@@ -1,4 +1,4 @@
-*---
+---
 layout: project
 type: project
 image: images/2022_01_23_azur_dvp_cicp.png

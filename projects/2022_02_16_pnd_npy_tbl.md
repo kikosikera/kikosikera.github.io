@@ -5,7 +5,7 @@ image: images/2022_02_02_pnd_npy_tbl.png
 title: Visualizing Spotify Data with Python and Tableau
 permalink: projects/2022_02_02_pnd_npy_tbl
 # All dates must be YYYY-MM-DD format!
-date: 2022-02-02
+date: 2022-02-16
 labels:
 - Tableau
 - Python

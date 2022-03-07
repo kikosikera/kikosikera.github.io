@@ -5,7 +5,7 @@ image: images/2022_02_23_azur_ml_des.png
 title: Develop Clustering Models > Azure ML Designer
 permalink: projects/2022_02_23_azur_ml_des
 # All dates must be YYYY-MM-DD format!
-date: 2022-02-23
+date: 2022-02-28
 labels:
 - Artificial Intelligence
 - Machine Learning

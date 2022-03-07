@@ -45,4 +45,4 @@ Azure DevOps can automate the complete life cycle of an application deployment. 
 
 <hr>
 
-Source: <a href="https://github.com/kikosikera/2022_02_08_azur_dep_jav/tree/main/"><i class="large github icon"></i>kikosikera/2022_01_23_azur_dvp_cicp</a>
+Source: <a href="https://github.com/kikosikera/2022_02_08_azur_dep_jav/tree/main/"><i class="large github icon"></i>kikosikera/2022_02_08_azur_dep_jav</a>

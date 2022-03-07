@@ -1,4 +1,4 @@
----
+*---
 layout: project
 type: project
 image: images/2022_02_23_azur_ml_des.png

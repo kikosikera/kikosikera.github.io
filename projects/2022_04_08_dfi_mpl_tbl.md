@@ -2,20 +2,21 @@
 layout: project
 type: project
 image: images/2022_04_08_dfi_mpl_tbl.png
-title: Decentralized Finance with Python and Tableau
+title: Defi > Decentralized Finance with Py+Vizz
 permalink: projects/2022_04_08_dfi_mpl_tbl
 # All dates must be YYYY-MM-DD format!
 date: 2022-04-08
 labels:
-- Tableau
+- Decentralized Finance
 - Python
+- Impermanent Loss
+- Defi
 - Pandas
+- Matplotlib
 - Numpy
-- Requests
 - Data Vizz
 - Dashboard
-- Spotify
-- Streaming Data
+- Tableau
 
 
 

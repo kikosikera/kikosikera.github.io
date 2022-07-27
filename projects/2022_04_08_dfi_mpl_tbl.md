@@ -14,8 +14,6 @@ labels:
 - Pandas
 - Matplotlib
 - Numpy
-- Data Vizz
-- Dashboard
 - Tableau
 
 
@@ -42,7 +40,7 @@ Visualizing Spotify Data with Python and Tableau](https://public.tableau.com/app
 
 [Tableau Gallery](https://public.tableau.com/profile/cristiano.siqueira#!)
 
-[Data](https://github.com/kikosikera/2022_02_02_pnd_npy_tbl/tree/master/data)
+[Data](https://github.com/kikosikera/2022_04_08_dfi_mpl_tbl/tree/master/data)
 
 
  <a href="https://public.tableau.com/app/profile/cristiano.siqueira/viz/2022_04_08_dfi_mpl_tbl/Dashboard">
@@ -52,4 +50,4 @@ Visualizing Spotify Data with Python and Tableau](https://public.tableau.com/app
 
 <hr>
 
-Source: <a href="https://github.com/kikosikera/2022_04_08_dfi_mpl_tbl/tree/main/data"><i class="large github icon"></i>kikosikera/2022_02_02_pnd_npy_tbl</a>
+Source: <a href="https://github.com/kikosikera/2022_04_08_dfi_mpl_tbl/tree/main/data"><i class="large github icon"></i>kikosikera/2022_04_08_dfi_mpl_tbl</a>

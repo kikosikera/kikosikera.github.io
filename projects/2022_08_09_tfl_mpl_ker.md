@@ -27,7 +27,7 @@ summary: In this study, a model has developed to detect unwanted potholes, using
 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/2022_01_03_sea_skl_xgb_pannel.png">
+<img class="ui image" src="{{ site.baseurl }}/images/2022_08_09_tfl_mpl_ker_pannel.png">
 
 In this study, a model has developed to detect unwanted potholes, using machine learning tools. A Kaggle dataset was curated in order to produce pothole detection using CNN (Convolutional Neural Networks).
 

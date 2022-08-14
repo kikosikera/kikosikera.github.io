@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/2022_01_03_sea_skl_xgb.png
+image: images/2022_08_09_tfl_mpl_ker.png
 title: Recognition and Classification using CNN
 permalink: projects/2022_08_09_tfl_mpl_ker
 # All dates must be YYYY-MM-DD format!

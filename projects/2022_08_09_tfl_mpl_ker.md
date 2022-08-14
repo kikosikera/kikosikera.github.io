@@ -37,7 +37,6 @@ This project proposes a method where Tensorflow pre-trained model detects road d
 
 [Jupyter Notebook > Recognition and Classification using Convolutional Neural Networks](https://colab.research.google.com/gist/kikosikera/3e05bf21b5e6a3d004327040ee7d7c5e/2022_08_09_tfl_mpl_ker.ipynb?authuser=3)
 
-[Data](https://github.com/kikosikera/2022_08_09_tfl_mpl_ker/tree/master/data)
 
 <img class="ui image" src="{{ site.baseurl }}/images/2022_01_03_sea_skl_xgb_charts_raw_high_800.png"/>
 

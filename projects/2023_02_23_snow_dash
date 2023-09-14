@@ -1,0 +1,47 @@
+---
+layout: project
+type: project
+image: images/2023_02_23_snow_dash
+title: Snowflake > Snowsight Dashboard
+permalink: projects/2023_02_23_snow_dash
+# All dates must be YYYY-MM-DD format!
+date: 2023-02-23
+labels:
+- Snowflake
+- Data Management
+- SQL
+- Data Analysis
+- Dashbord
+- Cloud Computing
+- Automation
+
+
+
+
+
+
+
+
+summary: This project offers participants a deep grasp of Snowflake, a cloud-based data platform. It starts with fundamentals, emphasizing sourcing market intelligence data from Snowflake's Marketplace, providing diverse datasets for insightful, data-driven decisions. Participants learn to navigate and utilize the marketplace effectively, securing essential data access for analysis.
+
+As the project advances, participants create a virtual warehouse, establish a database, and structure data with tables in Snowflake. They also learn data loading best practices. The project introduces Snowflake SQL worksheets for querying and manipulating data, enhancing data analysis skills. It concludes with a Snowsight dashboard creation for visualizing insights, empowering participants with a strong Snowflake and data analytics foundation for effective decision-making. 
+---
+
+<img class="ui image" src="{{ site.baseurl }}/images/2023_02_23_snow_dash_header.png">
+
+This project offers participants a deep grasp of Snowflake, a cloud-based data platform. It starts with fundamentals, emphasizing sourcing market intelligence data from Snowflake's Marketplace, providing diverse datasets for insightful, data-driven decisions. Participants learn to navigate and utilize the marketplace effectively, securing essential data access for analysis.
+
+As the project advances, participants create a virtual warehouse, establish a database, and structure data with tables in Snowflake. They also learn data loading best practices. The project introduces Snowflake SQL worksheets for querying and manipulating data, enhancing data analysis skills. It concludes with a Snowsight dashboard creation for visualizing insights, empowering participants with a strong Snowflake and data analytics foundation for effective decision-making. 
+
+
+[Accomplishments > Course Certificate > Snowflake > Snowsight Dashboard](https://www.coursera.org/account/accomplishments/verify/QRAZ3CN4Y2DN)
+
+<a href="https://www.coursera.org/account/accomplishments/verify/QRAZ3CN4Y2DN">
+  <img src="/images/2023_02_23_snow_dash_cert.png" style="width:720px;height:360px;"/>
+ </a>
+
+
+
+<hr>
+
+Source: <a href="https://github.com/kikosikera/2022_01_23_azur_dvp_cicp/tree/main/"><i class="large github icon"></i>kikosikera/2022_01_23_azur_dvp_cicp</a>

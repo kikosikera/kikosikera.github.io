@@ -2,7 +2,7 @@
 http-referrer=https://cookiewebplay.xyz
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="CBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-logo-white-us.png" group-title="USA (DADDY LIVE)",CBS
-http-referrer=https://cookiewebplay.xyz/index.m3u8
+http-referrer=https://cookiewebplay.xyz
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="News",NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8

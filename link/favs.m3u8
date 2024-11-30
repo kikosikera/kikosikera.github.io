@@ -8,7 +8,7 @@ https://v6.thetvapp.to/hls/WCBSDT1/index.m3u8?token=TWVIZmRXOG1oRDBrQkFQT1VxeURI
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+https://v6.thetvapp.to/hls/CNN/index.m3u8?token=TWVIZmRXOG1oRDBrQkFQT1VxeURIWnBqUlQyRGRISXlrNG12NUMzcw==
 
 #EXTINF:-1 tvg-id="CNBC.USA.us tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
 http://fl5.moveonjoy.com/CNBC/index.m3u8

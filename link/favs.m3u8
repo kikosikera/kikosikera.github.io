@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="ABC.(WOLO).Columbia,.SC.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" ,ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8

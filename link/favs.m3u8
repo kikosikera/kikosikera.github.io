@@ -19,8 +19,8 @@ https://list.iptvcat.com/my_list/s/036116d4e3cbf6f7f5b49fdfe250e408.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN BRASIL
 http://hzcdn.vood.top:80/hls/309458_.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN PREMIUM
-http://45.184.87.142:8000/play/a045
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN DESPORTES
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:EA:3C:FA&stream=1497106&extension=m3u8
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true",TSN
 http://fl5.moveonjoy.com/TSN_1/index.m3u8

@@ -14,13 +14,13 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_14
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.CBS.News.plex" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-24-7-us.png",CBSN
-http://fl3.moveonjoy.com/CBS_News/index.m3u8
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN BRASIL
-https://cdn-3.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
+http://hzcdn.vood.top:80/hls/309458_.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN CENTRAL
-https://cdn-3.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN PREMIUM
+http://45.184.87.142:8000/play/a045
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true",TSN
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
@@ -44,10 +44,10 @@ http://streamsy.online:2999/live/venomj/EmoOmOskzq/153.m3u8
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 
 #EXTINF:-1 tvg-id="GLOBOSP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",GLOBO
-https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
+http://15.235.15.230:14488/GLOBOSP
 
 #EXTINF:-1 tvg-id="GlobalToronto(English).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/global-ca.png",GLOBAL
 https://xyzdddd.mizhls.ru/lb/premium836/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png",TELEMUNDO
-https://xyzdddd.mizhls.ru/lb/premium131/index.m3u8
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8

@@ -19,8 +19,8 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN BRASIL
 http://hzcdn.vood.top:80/hls/309458_.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN DESPORTES
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:EA:3C:FA&stream=1497106&extension=m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN NEWS
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true",TSN
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
@@ -38,7 +38,7 @@ http://fl2.moveonjoy.com/VICELAND/index.m3u8
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",HISTORY
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/153.m3u8
+https://v7.thetvapp.to/hls/HistoryEast/index.m3u8?token=eTN6N3QzQjVKUkhFYXRDcEViU2o4QzNvVFEwMFAyVTM5dERDZnl6Mg==
 
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",NAT GEO
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
@@ -50,4 +50,4 @@ http://15.235.15.230:14488/GLOBOSP
 https://list.iptvcat.com/my_list/s/57f5975d77cfa4e417e4aaa5417ba849.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png",TELEMUNDO
-https://list.iptvcat.com/my_list/s/6fd53c84d2b23e11903bc6218cb6ab03.m3u8
+https://v7.thetvapp.to/hls/TelemundoEast/index.m3u8?token=eTN6N3QzQjVKUkhFYXRDcEViU2o4QzNvVFEwMFAyVTM5dERDZnl6Mg==

@@ -38,7 +38,7 @@ http://fl2.moveonjoy.com/VICELAND/index.m3u8
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",HISTORY
-https://v7.thetvapp.to/hls/HistoryEast/index.m3u8?token=eTN6N3QzQjVKUkhFYXRDcEViU2o4QzNvVFEwMFAyVTM5dERDZnl6Mg==
+https://v7.thetvapp.to/hls/HistoryEast/index.m3u8?resolution=720&token=eTN6N3QzQjVKUkhFYXRDcEViU2o4QzNvVFEwMFAyVTM5dERDZnl6Mg==
 
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",NAT GEO
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8

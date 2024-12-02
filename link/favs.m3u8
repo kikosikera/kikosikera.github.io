@@ -19,7 +19,7 @@ https://xyzdddd.mizhls.ru/lb/premium345/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.USA.us tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.-yBpurDwdSzhfjl1Can3GAHaHa%26pid%3DApi&f=1",CHEDDAR
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://i.imgur.com/nWjAjzy.png",CHEDDAR
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN BRASIL
@@ -51,7 +51,9 @@ http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 https://xyzdddd.mizhls.ru/lb/premium322/index.m3u8
 
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",NAT GEO
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (CPU iPhone)
+https://xyzdddd.mizhls.ru/lb/premium328/index.m3u8
 
 #EXTINF:-1 tvg-id="GLOBOSP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",GLOBO
 http://15.235.15.230:14488/GLOBOSP

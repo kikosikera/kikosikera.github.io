@@ -17,7 +17,9 @@ http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 https://xyzdddd.mizhls.ru/lb/premium345/index.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.USA.us tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
-http://fl5.moveonjoy.com/CNBC/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (CPU iPhone)
+https://xyzdddd.mizhls.ru/lb/premium309/index.m3u8
 
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png",CHEDDAR
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
@@ -40,7 +42,9 @@ http://fl2.moveonjoy.com/BRAVO/index.m3u8
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 #EXTINF:-1 tvg-id="VICE.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png",VICE
-http://fl2.moveonjoy.com/VICELAND/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (CPU iPhone)
+https://xyzdddd.mizhls.ru/lb/premium659/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png",DISCOVERY
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8

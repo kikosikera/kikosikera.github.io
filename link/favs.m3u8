@@ -11,6 +11,9 @@ https://xyzdddd.mizhls.ru/lb/premium767/index.m3u8
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png",NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
+#EXTINF:-1 tvg-id="Bloomberg.TV.USA.us" tvg-name="BLOOMBERG" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="News",BLOOMBERG
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",CNN
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (CPU iPhone)
@@ -20,9 +23,6 @@ https://xyzdddd.mizhls.ru/lb/premium345/index.m3u8
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (CPU iPhone)
 https://xyzdddd.mizhls.ru/lb/premium309/index.m3u8
-
-#EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logod.png",CHEDDAR
-https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN BRASIL
 http://hzcdn.vood.top:80/hls/309458_.m3u8

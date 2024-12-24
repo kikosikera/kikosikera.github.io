@@ -8,8 +8,9 @@ https://xyzdddd.mizhls.ru/lb/premium766/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (CPU iPhone)
 https://xyzdddd.mizhls.ru/lb/premium767/index.m3u8
 
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-logo-white-us.png",CBS NEWS
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6350fdd266e9ea0007bedec5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799153-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15376bcb-2b34-4530-a2f7-c528a8eb2aa3
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York.NY.us" tvg-logo="https://images.podchaser.com/networks/logos/cbsnews%20logo.png",CBSN
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png",NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 

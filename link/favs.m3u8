@@ -9,7 +9,7 @@ https://xyzdddd.mizhls.ru/lb/premium766/index.m3u8
 https://xyzdddd.mizhls.ru/lb/premium767/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York.NY.us" tvg-logo="https://typetype.org/wp-content/uploads/CBSN_1-1536x1536.png",CBSN
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png",NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8

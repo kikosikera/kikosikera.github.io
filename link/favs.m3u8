@@ -24,6 +24,11 @@ https://xyzdddd.mizhls.ru/lb/premium309/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (CPU iPhone)
 https://xyzdddd.mizhls.ru/lb/premium345/index.m3u8
 
+#EXTINF:-1 tvg-id="CBCToronto(English).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-ca.png",CBC
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (CPU iPhone)
+https://xyzdddd.mizhls.ru/lb/premium832/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN BRASIL
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
 
@@ -65,11 +70,6 @@ https://xyzdddd.mizhls.ru/lb/premium328/index.m3u8
 
 #EXTINF:-1 tvg-id="GLOBOSP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",GLOBO
 http://authxplus-2.xyz:2082/Xplus-1-tiaIQclyoa/XibmyDxkvK/504
-
-#EXTINF:-1 tvg-id="CTVToront(English).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png",CTV
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (CPU iPhone)
-https://xyzdddd.mizhls.ru/lb/premium838/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png",TELEMUNDO
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/

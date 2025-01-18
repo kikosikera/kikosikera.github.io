@@ -22,7 +22,7 @@ http://fl5.moveonjoy.com/CNBC/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (CPU iPhone)
 https://xyzdddd.mizhls.ru/lb/premium345/index.m3u8
 
-#EXTINF:-1 tvg-id="CityNewsToronto.ca" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png",CITY NEWS 
+#EXTINF:-1 tvg-id="CityNewsToronto.ca" tvg-logo="https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2020/01/27/citynews_logo.png",CITY NEWS 
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN BRASIL

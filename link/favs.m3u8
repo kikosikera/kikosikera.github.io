@@ -26,10 +26,10 @@ http://fl2.moveonjoy.com/BRAVO/index.m3u8
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 #EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",HISTORY
-https://v14.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8?token=IL7MabdNctCv7Gvkqi49ZA&expires=1739912835&user_id=YnFuODVOTFFJcTBYbU5iUGNaSGszODdzNEh3QWVjT1BLQnB1dlJvbA==
+https://v7.thetvapp.to/hls/HistoryEast/tracks-v2a1/mono.m3u8?token=fMbG0gDeiYvK-MhuuTHScg&expires=1740091117&user_id=ZFM0V3dNOGxyWDFEVGZPTUFOSVRsR1lFTjBPQlc5emZVeFF3OTRsNg==
 
 #EXTINF:-1 tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png",TELEMUNDO
-https://v10.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8?token=OaGwdp5JXb6Pte-eytOZqQ&expires=1739913063&user_id=RmQzTzBWUDR4QVJFM0t1WHVCNmpDNU1wbmJXM29XNTE2T0ZXQkZJRA==
+https://v8.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8?token=ZxZSMYQQIaLxGvHawviNWw&expires=1740091209&user_id=ZFM0V3dNOGxyWDFEVGZPTUFOSVRsR1lFTjBPQlc5emZVeFF3OTRsNg==
 
 #EXTINF:-1 tvg-id="GLOBOSP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",GLOBO
 http://sapphireapp.xyz:8080/live/W0V9brr5JW/2656286300/46470.ts

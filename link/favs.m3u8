@@ -29,7 +29,7 @@ http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 https://streamer1.nexgen.bz//HISTORY/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png",TELEMUNDO
-https://topembed.pw/channel/History[USA]
+https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GLOBOSP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",GLOBO
 http://sapphireapp.xyz:8080/live/W0V9brr5JW/2656286300/46470.ts

@@ -1,4 +1,6 @@
 Name: Kiko Siqueira
+Data Analyst, Business Analyst, Equity Analyst, Economist 
+
 Location: Burlington, ON, Canada
 Phone: (289) 400-2105
 Email: kikosiq@gmail.com
@@ -94,7 +96,7 @@ I would welcome the chance to discuss available opportunities. Feel free to cont
 Kind regards,
 Kiko Siqueira
 
-English / Portuguese / Spanish
+English, Spanish, Portuguese
 
 Linkedin
 https://www.linkedin.com/in/kiko-siqueira/

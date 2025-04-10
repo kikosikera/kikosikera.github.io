@@ -26,10 +26,10 @@ http://fl2.moveonjoy.com/BRAVO/index.m3u8
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 #EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",HISTORY
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/153.m3u8
+https://v5.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png",TELEMUNDO
-https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
+https://v15.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="GLOBOSP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",GLOBO
 http://178.162.225.117:2082/Tourobox1-R1wBdpFOCR/B0ixOZo8Jp/1455

@@ -29,7 +29,7 @@ http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/153
 
 #EXTINF:-1 tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png",TELEMUNDO
-https://tvpass.org/live/TelemundoEast/hd
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GLOBOSP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",GLOBO
 http://178.162.225.117:2082/Tourobox1-R1wBdpFOCR/B0ixOZo8Jp/1455

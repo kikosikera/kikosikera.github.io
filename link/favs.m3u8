@@ -10,7 +10,7 @@ http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="CNBC.World.us" tvg-logo="https://alchetron.com/cdn/cnbc-world-704fb100-b562-4b24-a2e3-dc8de34d459-resize-750.png",CNBC WORLD
+#EXTINF:-1 tvg-id="CNBC.World.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC WORLD
 http://50.7.234.10:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
 
 #EXTINF:-1 tvg-id="CityNewsToronto.ca" tvg-logo="https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2020/01/27/citynews_logo.png",CITY NEWS 

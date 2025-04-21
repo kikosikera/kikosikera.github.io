@@ -26,7 +26,7 @@ http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/153
 
 #EXTINF:-1 tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png",TELEMUNDO
-https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951226
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/6899
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN BRASIL
 http://sapphireapp.xyz:8080/live/W0V9brr5JW/2656286300/46445.ts

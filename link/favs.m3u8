@@ -23,7 +23,7 @@ http://fl2.moveonjoy.com/BRAVO/index.m3u8
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 #EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",HISTORY
-http://38.96.178.201:80/live/History/index.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/153
 
 #EXTINF:-1 tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png",TELEMUNDO
 https://v18.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8

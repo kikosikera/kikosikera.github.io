@@ -17,10 +17,10 @@ https://ott.djdoolky76.net/stream/astro/cnbc/master.m3u8?u=udpteam@djdoolky76&p=
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/6501/index.m3u8
 
 #EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",BRAVO
-http://fl2.moveonjoy.com/BRAVO/index.m3u8
+http://fl1.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E!
-http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 #EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",HISTORY
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/153

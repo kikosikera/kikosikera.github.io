@@ -11,7 +11,7 @@ http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.World.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC WORLD
-https://ott.djdoolky76.net/stream/astro/cnbc/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+http://125.227.210.55:8152/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="CP24.ca" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv_cp24-white-1.png",CP24
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/6501/index.m3u8

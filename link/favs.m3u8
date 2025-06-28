@@ -20,4 +20,4 @@ http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 http://38.96.178.201:80/live/History/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png",TELEMUNDO
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1656
+https://int.klcis.cc/api/m3u/TelemundoEast?quality=hd

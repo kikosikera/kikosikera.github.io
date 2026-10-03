@@ -1,24 +1,23 @@
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png",ABC
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+http://4.30.180.36:8420/abc/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-logo-white-us.png",CBS
-https://fl61.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8
+http://4.30.180.36:8420/cbs/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png",NBC
-https://fl61.moveonjoy.com/NY_New_York_NBC/index.m3u8
+http://4.30.180.36:8420/nbc/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
-http://fl1.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-logo="https://raw.githubusercontent.com/kikosikera/kikosikera.github.io/refs/heads/master/link/CNBC148.png",CNBC
+http://4.30.180.36:8420/cnbc/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",BRAVO
-http://fl1.moveonjoy.com/BRAVO/index.m3u8
+http://4.30.180.36:8420/bravo/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E!
-http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-
-#EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",HISTORY
-http://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/kikosikera/kikosikera.github.io/refs/heads/master/link/history-us148.png",HISTORY
+http://4.30.180.36:8420/history/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png",TELEMUNDO
-https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
+http://4.30.180.36:8420/wnjudt/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="ESPN.BRA" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-png-2.png",ESPN
+http://tbewf.top:80/infinity2025/Jesus2025/156101.ts?buffer=1224444&reconnect=1&timeout=1224444&caching=1224444
